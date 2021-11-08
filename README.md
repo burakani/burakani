@@ -3,7 +3,6 @@
 - ⚡ I'm a senior software engineering student in Istanbul, Turkey.
 - 🌱 I’m currently learning everything.
 
-<br />
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="35px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />](https://www.linkedin.com/in/burakani/)
