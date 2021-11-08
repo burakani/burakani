@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="35px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" target="_blank"/>](https://www.linkedin.com/in/burakani/)
+[<img align="left" alt="LinkedIn" width="35px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />](https://www.linkedin.com/in/burakani/)
 [<img align="left" alt="Twitter" width="35px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />](https://twitter.com/inakarub)
 [<img align="left" alt="Instagram" width="35px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />](https://www.instagram.com/burakani)
 
