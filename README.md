@@ -1,6 +1,6 @@
 ### Hi there, I'm Burak 👋 
 
-- ⚡ I'm a Junior Software Engineer in Istanbul, Turkey currently
+- ⚡ I'm a Software Engineer in Istanbul, Turkey currently
 - 🌱 I’m currently learning everything.
 
 ### Connect with me:
