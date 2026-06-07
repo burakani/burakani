@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://burakani.dev"><img src="./banner.png" alt="Burak Anı — Senior Software Engineer · İstanbul, Türkiye" width="100%" /></a>
+  <a href="https://burakani.dev"><img src="./hero.gif" alt="Burak Anı — Senior Software Engineer · İstanbul, Türkiye" width="100%" /></a>
 </p>
 
 <p align="center">
