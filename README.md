@@ -1,5 +1,6 @@
-<h1 align="center">Burak Ani</h1>
-<p align="center"><b>Senior Software Engineer</b> &nbsp;·&nbsp; İstanbul, Türkiye</p>
+<p align="center">
+  <a href="https://burakani.dev"><img src="./banner.png" alt="Burak Anı — Senior Software Engineer · İstanbul, Türkiye" width="100%" /></a>
+</p>
 
 <p align="center">
   <a href="https://burakani.dev"><img src="https://img.shields.io/badge/Website-burakani.dev-44403C?style=flat-square&logo=vercel&logoColor=F2EFE9" alt="Website" /></a>
